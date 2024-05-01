@@ -1,4 +1,4 @@
-# Develp
+# assembly.logos.co
 
 The repository for [assembly.logos.co](https://assembly.logos.co/) website.
 
