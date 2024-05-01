@@ -55,6 +55,7 @@ const config = {
         items: [],
       },
       footer: {
+        copyright: 'Logos',
         links: [
           {
             items: [
