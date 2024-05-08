@@ -1,15 +1,15 @@
 {
-    "timestamp": "2024-05-08T17:56:18Z",
+    "timestamp": "2024-05-08T17:58:13Z",
     "git": {
         "commit": "8287d71f4ef477d66057eef7df514aa5f928f229",
         "branch": "origin/master",
         "url": "git@github.com:acid-info/assembly.logos.co.git"
     },
     "build": {
-        "id": "2",
-        "number": "2",
+        "id": "3",
+        "number": "3",
         "name": "website/assembly.logos.co",
         "slave": "linux-01",
-        "url": "https://ci.infra.status.im/job/website/job/assembly.logos.co/2/"
+        "url": "https://ci.infra.status.im/job/website/job/assembly.logos.co/3/"
     }
 }
